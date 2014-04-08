@@ -9,7 +9,6 @@ http://www.codereading.com/algo_and_ds/algo/linear_search.html
 
 番兵付きリニアサーチ
 要素が求めている値か確認してから出力（if文を無駄に通らない）
-http://qiita.com/tooooooooomy/items/a908b25618cff23455f0
 
 バイナリサーチ（昇順）
 半分ずつ割って大小を比較
@@ -29,3 +28,6 @@ http://ja.wikipedia.org/wiki/%E3%83%90%E3%83%96%E3%83%AB%E3%82%BD%E3%83%BC%E3%83
 回答1：バブルソートで昇順に並び替える。
 回答2：配列の要素（数値）をすべて足し、要素数で割ったもの（平均）の大小を比較し、それを繰り返す（バイナリサーチ）。
        要素数が3以下になったらバブルソート。
+
+
+スライド https://slid.es/kazunarinakata/stady_mtg/edit
